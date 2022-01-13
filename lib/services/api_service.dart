@@ -3,7 +3,6 @@ import 'package:http/http.dart' as http;
 import 'package:image_picker/image_picker.dart';
 import 'package:teletip_app/config.dart';
 import 'package:teletip_app/models/get_doctor_res.dart';
-import 'package:teletip_app/models/get_major_list.dart';
 import 'package:teletip_app/models/user_login_req.dart';
 import 'package:teletip_app/models/user_login_res.dart';
 import 'package:teletip_app/models/user_message_res.dart';

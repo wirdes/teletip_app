@@ -1,13 +1,8 @@
 import 'package:convex_bottom_bar/convex_bottom_bar.dart';
 import 'package:flutter/material.dart';
-import 'package:teletip_app/app_colors.dart';
-import 'package:teletip_app/config.dart';
 import 'package:teletip_app/pages/doctorPage/doctor_page.dart';
-import 'package:teletip_app/pages/messages/message_page.dart';
+import 'package:teletip_app/pages/messagePage/message_page.dart';
 import 'package:teletip_app/pages/profilePage/profile_page.dart';
-
-import 'package:teletip_app/services/api_service.dart';
-import 'package:teletip_app/services/shared_service.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({Key? key}) : super(key: key);

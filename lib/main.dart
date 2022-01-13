@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-
 import 'package:teletip_app/pages/homePage/home_page.dart';
-import 'package:teletip_app/pages/login/login_page.dart';
-import 'package:teletip_app/pages/messages/message_page.dart';
-import 'package:teletip_app/pages/register/register_page.dart';
+import 'package:teletip_app/pages/loginPage/login_page.dart';
+import 'package:teletip_app/pages/messagePage/message_page.dart';
+import 'package:teletip_app/pages/registerPage/register_page.dart';
+
 import 'package:teletip_app/services/shared_service.dart';
 
 Widget _default = const LoginPage();

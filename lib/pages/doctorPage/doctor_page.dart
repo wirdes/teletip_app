@@ -4,7 +4,6 @@ import 'package:snippet_coder_utils/ProgressHUD.dart';
 import 'package:teletip_app/app_colors.dart';
 import 'package:teletip_app/config.dart';
 import 'package:teletip_app/models/get_doctor_res.dart';
-import 'package:teletip_app/models/get_major_list.dart';
 import 'package:teletip_app/pages/messagesDetails/message_details.dart';
 import 'package:teletip_app/services/api_service.dart';
 import 'package:teletip_app/services/shared_service.dart';
